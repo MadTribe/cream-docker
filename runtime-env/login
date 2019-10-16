@@ -1,0 +1,1 @@
+bash -c clear && docker exec -it docker-compose_ford-mediadata-mgt_1 sh

@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+export IMAGE_NAME=raspberry-cream

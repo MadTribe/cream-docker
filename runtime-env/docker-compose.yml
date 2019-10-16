@@ -1,0 +1,7 @@
+version: "3.2"
+services:
+  pie:
+    image: raspberry-cream:latest
+    environment:
+      CREAM_MODE: "dev"
+        
